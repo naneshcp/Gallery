@@ -163,12 +163,11 @@ from imagegallery import views
 urlpatterns = [
    path('gallery/',views.igaly)
 ]
-
+```
 # OUTPUT:
 
-![output08(web)](https://github.com/user-attachments/assets/4eee357a-3b5b-4acf-86de-4eebd5af99ce)
-
-![output08(web)cmd'](https://github.com/user-attachments/assets/7d7d52c8-23ab-436b-8481-e41d1ef8d1b0)
+![output08(web)](https://github.com/user-attachments/assets/60b63f6b-2077-4e02-9d80-a5531b86ae5b)
+![output08(web)cmd'](https://github.com/user-attachments/assets/b950aa25-b212-498c-bc0b-5887f9c045aa)
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
